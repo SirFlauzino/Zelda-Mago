@@ -1,0 +1,1 @@
+Este arquivo foi criado com a finalidade de testar os comandos do git a partir do meu computador
